@@ -58,10 +58,6 @@ DemoVedio: "https://drive.google.com/file/d/1T-3gF1QL5I7gNgUoY7fXeXnZDZeUjSav/vi
 Finally : You Can Add Your Cusstom Futures Or Ui
       Contact Me For More Details: 01033561845
 
-
-
-
-
 =========================================================
 ![INTRO_OF_APP](https://user-images.githubusercontent.com/68397099/158491029-41487d14-6093-4953-8b43-9bd1b9fcadd9.png)
 
